@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Just an ordinary blog!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is just a demo of mine.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[E-Mail](mailto:kunalprashant77@gmail.com)
